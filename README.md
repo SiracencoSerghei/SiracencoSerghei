@@ -12,7 +12,7 @@
 - :man_scientist:
 - - :lab_coat:
 
-- [![Linkedin]](https://img.shields.io/badge/-Siracenco_Serghei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
+- [![Linkedin](https://img.shields.io/badge/-Siracenco_Serghei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
 - [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:siracencoserghei@gmail.com)
   
 <br>
