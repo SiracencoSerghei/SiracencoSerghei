@@ -19,7 +19,8 @@
 <br>
 <h3 align="left">Learning Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="JavaScript-logo.png" alt="Javascript" width="90" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="JavaScript-logo.png" alt="Javascript" width="50" height="40"/> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="Typescript_logo_2020.png" alt="Typescript" width="50" height="40"/> 
 <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" width="90" height="40"/> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="90" height="30"/> </a> 
