@@ -20,17 +20,17 @@
 <br>
 <h3 align="left">Learning Languages:</h3>
 <p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="JavaScript-logo.png" alt="Javascript" width="70" height="70"/> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="Typescript_logo_2020.png" alt="Typescript" width="70" height="70"/>  </a>
-<a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" width="90" height="70"/>  </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="70" height="70"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="python" width="70" height="70"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="70" height="70"/> </a>
 </p>
 <br>
 <h3 align="left">Learning Tools:</h3>
 <br>
 <p align="left"> 
+<a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" width="90" height="70"/>  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="reactjs.svg" alt="React" width="90" height="70"/> </a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="70" height="70"/> </a>
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="90" height="70"/> </a>
