@@ -31,7 +31,7 @@
 <h3 align="left">Learning Tools:</h3>
 <br>
 <p align="left"> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="reactjs.svg" alt="React" width="70" height="70"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="reactjs.svg" alt="React" width="90" height="70"/> </a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="70" height="70"/> </a>
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="90" height="70"/> </a>
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="90" height="70"/> </a>
