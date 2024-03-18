@@ -1,13 +1,4 @@
-<style>
-a {
-    background-color: transparent;
-    transition: color 0.3s ease; /* This will animate the color change */
-}
 
-a:hover {
-    background-color: blue;
-}
-</style>
 - 👋 Hi, I’m @SiracencoSerghei
   <br>
 - 🔭 I’m currently working on ...
