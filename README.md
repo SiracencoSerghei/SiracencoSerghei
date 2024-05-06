@@ -46,3 +46,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siracencoserghei&theme=cobalt" alt="siracencoserghei"  /></p>
 
+[![Siracenco Serghei profile views](https://u8views.com/api/v1/github/profiles/108734530/views/day-week-month-total-count.svg)](https://u8views.com/github/SiracencoSerghei)
+
