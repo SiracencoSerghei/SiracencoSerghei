@@ -18,7 +18,7 @@
 - [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:siracencoserghei@gmail.com)
   
 <br>
-<h3 align="left">Learning Languages:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="JavaScript-logo.png" alt="Javascript" width="70" height="70"/> 
@@ -27,7 +27,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="70" height="70"/> </a>
 </p>
 <br>
-<h3 align="left">Learning Tools:</h3>
+<h3 align="left">Tools:</h3>
 <br>
 <p align="left"> 
 <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" width="90" height="70"/>  </a>
