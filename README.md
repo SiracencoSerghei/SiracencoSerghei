@@ -3,9 +3,10 @@
 👋 I’m <a href="https://www.linkedin.com/in/siracenco-serghei/">@SiracencoSerghei</a>
   <br>
 
-### <div align="left"> 🌱 I'm just a Python developer who has a dream.</div> 
+### <div align="left"> 🌱  I'm just a Full Stack Developer who has a dream.</div> 
 <br>
-<div align="left">👯 I'm open to collaborating on various interesting projects. Ready to contribute my skills and experience. If you have specific projects or ideas in mind, I'd be happy to join and work together.</div>
+
+## <div align="left">👯 I'm open to collaborating on various interesting projects. Ready to contribute my skills and experience.  If you have specific projects or ideas in mind, I'd be happy to join and work together.</div>
 
 ## My Skill Set  
   
@@ -50,7 +51,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=html" alt="html" height="50" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=css" alt="css" height="50" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=js" alt="js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=ts" alt="ts" height="50" /></a>  
+<!-- <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=ts" alt="ts" height="50" /></a>   -->
 <a href="https://react.dev/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=react" alt="react" height="50" /></a>  
 <a href="https://redux-toolkit.js.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=redux" alt="redux" height="50" /></a>  
 <a href="https://svelte.dev/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=svelte" alt="svelte" height="50" /></a>  
@@ -73,10 +74,9 @@
 <br/>  
 
 ## Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
+[![Linkedin](https://img.shields.io/badge/-Siracenco_Serghei-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siracencosergio)
 [![GitLub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiracencoSerghei)
-[![Linkedin](https://img.shields.io/badge/-Siracenco_Serghei-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=BB001B)](mailto:siracencoserghei@gmail.com)
  
 <br/>  
