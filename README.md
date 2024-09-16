@@ -74,9 +74,10 @@
 <br/>  
 
 ## Connect with me  
-[![Linkedin](https://img.shields.io/badge/-Siracenco_Serghei-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siracencosergio)
+[![Linkedin](https://img.shields.io/badge/-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siracenco-serghei/)
+[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siracencosergio)
 [![GitLub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiracencoSerghei)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sergheisiracenco)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=BB001B)](mailto:siracencoserghei@gmail.com)
  
 <br/>  
