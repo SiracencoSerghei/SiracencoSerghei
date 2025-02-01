@@ -51,7 +51,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=html" alt="html" height="50" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=css" alt="css" height="50" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=js" alt="js" height="50" /></a>  
-<!-- <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=ts" alt="ts" height="50" /></a>   -->
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=ts" alt="ts" height="50" /></a>  
 <a href="https://react.dev/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=react" alt="react" height="50" /></a>  
 <a href="https://redux-toolkit.js.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=redux" alt="redux" height="50" /></a>  
 <a href="https://svelte.dev/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=svelte" alt="svelte" height="50" /></a>  
@@ -67,6 +67,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=postman" alt="postman" height="50" /></a> 
+
 <span><img style="margin: 5px" src="./three_dots.png" alt="postman" height="50" /></span>
  
 </div>
