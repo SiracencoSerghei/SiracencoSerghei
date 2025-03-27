@@ -67,9 +67,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=postman" alt="postman" height="50" /></a> 
-
-<span><img style="margin: 5px" src="./three_dots.png" alt="postman" height="50" /></span>
- 
+<a href="" target="_blank"><img style="margin: 5px" src="./three_dots.png" alt="postman" height="50" /></a> 
 </div>
 
 <br/>  
