@@ -1,5 +1,6 @@
 
 ## Hi everyone 👋 
+A non-profit initiative combining experience in finance and software development to create and share practical open-source digital tools.
 👋 I’m <a href="https://www.linkedin.com/in/siracenco-serghei/">@SiracencoSerghei</a>
   <br>
 
