@@ -45,6 +45,9 @@ A non-profit initiative combining experience in finance and software development
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img  style="margin: 5px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
   </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img style="margin: 5px" src="https://skillicons.dev/icons?i=go" alt="nodejs" />
+</a>
 </div>
   
 <h2>Frontend</h2> 
